@@ -1,7 +1,7 @@
 <img width="1259" alt="FANER" src="https://github.com/nehalelkaref/Flat-Arabic-NER/assets/16616024/bc2636e5-0329-44e3-bce5-92c425a23df6">
 
 # Flat Arbaic NER
-Classifying Flat Arabic entities using an esemble of two models built using _StagedNER_ and supplementary POS tags ranking 2nd place in [NER Shared tasks](https://dlnlp.ai/st/wojood/results)
+Classifying Flat Arabic entities using an esemble of two models built using _StagedNER_ and supplementary POS tags ranking 🥈 2nd place in [NER Shared tasks](https://dlnlp.ai/st/wojood/results)
 
 Data: [Wojood corpus](https://aclanthology.org/2022.lrec-1.387.pdf)
   - consists of 21 entity types
